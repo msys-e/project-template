@@ -1,0 +1,11 @@
+{
+  "name": "project-template",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
