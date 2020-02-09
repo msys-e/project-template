@@ -13,6 +13,7 @@
     "prettier": "^1.19.1",
     "stylelint": "^13.1.0",
     "stylelint-config-prettier": "^7.0.0",
+    "stylelint-config-rational-order": "^0.1.2",
     "stylelint-prettier": "^1.1.2"
   },
   "dependencies": {}
